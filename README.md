@@ -1,10 +1,10 @@
-                                            HR-Analytics-Project---Power-BI
+                                                HR-Analytics-Project---Power-BI
 In this HR Analytics Project analyzed employee attrition, department-wise breakdown, job satisfaction, age groups, and gender-based analysis.
 
-                                           📄 Introduction : 
+                                                    📄 Introduction : 
 This HR Analytics Dashboard project, built using Power BI, provides a comprehensive analysis of key HR metrics. The dashboard offers insights into employee attrition, department-wise breakdown, job satisfaction, and education field analysis. It is designed to assist HR teams in understanding workforce trends, identifying areas of concern, and improving employee retention strategies.
 
-                                          📊 Key Features:
+                                                    📊 Key Features:
 ✅ Employee Count: Total of 1,480 employees analyzed.
 
 ✅ Attrition Rate: 16.08% (238 employees have left).
@@ -23,7 +23,7 @@ This HR Analytics Dashboard project, built using Power BI, provides a comprehens
 
 ✅ Gender-Based Analysis: Attrition and job satisfaction analyzed by gender and age group.
 
-                                         📈  Insights:
+                                                     📈  Insights:
 📌 Attrition Trends: The highest attrition is observed in the R&D department (55.88%), followed by Sales (39.08%).
 
 📌 Age Distribution: Most employees fall in the 26-35 age group, with this group also having the highest attrition rate.
@@ -34,7 +34,7 @@ This HR Analytics Dashboard project, built using Power BI, provides a comprehens
 
 📌 Education-based Attrition: Employees from the Life Sciences and Medical backgrounds experience the highest attrition.
 
-                                    🚀 Key Insights and Recommendations
+                                      🚀 Key Insights and Recommendations
 ✅ This HR Analytics Dashboard reveals key insights into employee attrition and satisfaction. 
 
 ✅ The R&D department has the highest attrition, while employees aged 26-35 represent the largest group with notable turnover. 
