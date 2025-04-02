@@ -34,7 +34,7 @@ This HR Analytics Dashboard project, built using Power BI, provides a comprehens
 
 📌 Education-based Attrition: Employees from the Life Sciences and Medical backgrounds experience the highest attrition.
 
-                                      🚀 Key Insights and Recommendations
+                                          🚀 Key Insights and Recommendations
 ✅ This HR Analytics Dashboard reveals key insights into employee attrition and satisfaction. 
 
 ✅ The R&D department has the highest attrition, while employees aged 26-35 represent the largest group with notable turnover. 
