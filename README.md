@@ -2,7 +2,7 @@
 In this HR Analytics Project analyzed employee attrition, department-wise breakdown, job satisfaction, age groups, and gender-based analysis.
 
                                                                    📄 Introduction : 
-This HR Analytics Dashboard project, built using Tableau, provides a comprehensive analysis of key HR metrics. The dashboard offers insights into employee attrition, department-wise breakdown, employee demographics, job satisfaction, and education field analysis. It is designed to assist HR teams in understanding workforce trends, identifying areas of concern, and improving employee retention strategies.
+This HR Analytics Dashboard project, built using Power BI, provides a comprehensive analysis of key HR metrics. The dashboard offers insights into employee attrition, department-wise breakdown, job satisfaction, and education field analysis. It is designed to assist HR teams in understanding workforce trends, identifying areas of concern, and improving employee retention strategies.
 
                                                                     📊 Key Features:
 ✅ Employee Count: Total of 1,480 employees analyzed.
